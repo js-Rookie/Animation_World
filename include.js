@@ -6,6 +6,13 @@ let cards = [
       author: 'Coder@Hacktober',
       githubLink: 'https://github.com/Adwaith123/'
    },
+   {
+      artName: 'Hello World',
+      pageLink: './Art/adwaith@hacktoberfest/index.html',
+      imageLink: './Art/adwaith@hacktoberfest/adwaithrajesh.PNG',
+      author: 'Adwaith Rajesh',
+      githubLink: 'https://github.com/Adwaith123/'
+   },
 ];
 
 // Creates cards from the array above
